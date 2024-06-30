@@ -1,12 +1,12 @@
+import React from 'react';
 import {
-    Route, Routes, Navigate, BrowserRouter
+    Route, Routes, Navigate
 } from "react-router-dom";
 import routing from "./routing";
 
 function App() {
     return (
         <div className="App">
-            <BrowserRouter>
                 <Routes>
                     {Object.keys(routing).map((key) => {
                         const route = routing[key];
@@ -19,7 +19,6 @@ function App() {
                     })}
                     <Route path="*" element={<Navigate to="/" />} />
                 </Routes>
-            </BrowserRouter>
         </div>
     );
 }

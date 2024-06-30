@@ -1,0 +1,122 @@
+[
+  {
+    "topic": "Дом",
+    "words": [
+      { "en": "house", "ru": "дом" },
+      { "en": "window", "ru": "окно" },
+      { "en": "door", "ru": "дверь" },
+      { "en": "room", "ru": "комната" },
+      { "en": "kitchen", "ru": "кухня" },
+      { "en": "bathroom", "ru": "ванная" },
+      { "en": "bedroom", "ru": "спальня" },
+      { "en": "living room", "ru": "гостиная" },
+      { "en": "dining room", "ru": "столовая" },
+      { "en": "basement", "ru": "подвал" }
+    ]
+  },
+  {
+    "topic": "Еда",
+    "words": [
+      { "en": "apple", "ru": "яблоко" },
+      { "en": "bread", "ru": "хлеб" },
+      { "en": "cheese", "ru": "сыр" },
+      { "en": "meat", "ru": "мясо" },
+      { "en": "fish", "ru": "рыба" },
+      { "en": "milk", "ru": "молоко" },
+      { "en": "water", "ru": "вода" },
+      { "en": "juice", "ru": "сок" },
+      { "en": "coffee", "ru": "кофе" },
+      { "en": "tea", "ru": "чай" }
+    ]
+  },
+  {
+    "topic": "Путешествия",
+    "words": [
+      { "en": "airport", "ru": "аэропорт" },
+      { "en": "hotel", "ru": "отель" },
+      { "en": "ticket", "ru": "билет" },
+      { "en": "passport", "ru": "паспорт" },
+      { "en": "baggage", "ru": "багаж" },
+      { "en": "map", "ru": "карта" },
+      { "en": "tourist", "ru": "турист" },
+      { "en": "schedule", "ru": "расписание" },
+      { "en": "reservation", "ru": "резервация" },
+      { "en": "departure", "ru": "отправление" }
+    ]
+  },
+  {
+    "topic": "Работа и Профессии",
+    "words": [
+      { "en": "job", "ru": "работа" },
+      { "en": "profession", "ru": "профессия" },
+      { "en": "company", "ru": "компания" },
+      { "en": "office", "ru": "офис" },
+      { "en": "salary", "ru": "зарплата" },
+      { "en": "interview", "ru": "собеседование" },
+      { "en": "employee", "ru": "сотрудник" },
+      { "en": "boss", "ru": "босс" },
+      { "en": "team", "ru": "команда" },
+      { "en": "project", "ru": "проект" }
+    ]
+  },
+  {
+    "topic": "Погода",
+    "words": [
+      { "en": "weather", "ru": "погода" },
+      { "en": "sun", "ru": "солнце" },
+      { "en": "rain", "ru": "дождь" },
+      { "en": "snow", "ru": "снег" },
+      { "en": "cloud", "ru": "облако" },
+      { "en": "wind", "ru": "ветер" },
+      { "en": "temperature", "ru": "температура" },
+      { "en": "forecast", "ru": "прогноз" },
+      { "en": "storm", "ru": "буря" },
+      { "en": "humidity", "ru": "влажность" }
+    ]
+  },
+  {
+    "topic": "Семья и Отношения",
+    "words": [
+      { "en": "family", "ru": "семья" },
+      { "en": "parents", "ru": "родители" },
+      { "en": "children", "ru": "дети" },
+      { "en": "husband", "ru": "муж" },
+      { "en": "wife", "ru": "жена" },
+      { "en": "brother", "ru": "брат" },
+      { "en": "sister", "ru": "сестра" },
+      { "en": "friend", "ru": "друг" },
+      { "en": "love", "ru": "любовь" },
+      { "en": "marriage", "ru": "брак" }
+    ]
+  },
+  {
+    "topic": "Покупки и Магазины",
+    "words": [
+      { "en": "shop", "ru": "магазин" },
+      { "en": "sale", "ru": "распродажа" },
+      { "en": "price", "ru": "цена" },
+      { "en": "discount", "ru": "скидка" },
+      { "en": "cash", "ru": "наличные" },
+      { "en": "credit card", "ru": "кредитная карта" },
+      { "en": "market", "ru": "рынок" },
+      { "en": "customer", "ru": "покупатель" },
+      { "en": "cashier", "ru": "кассир" },
+      { "en": "receipt", "ru": "чек" }
+    ]
+  },
+  {
+    "topic": "Хобби и Досуг",
+    "words": [
+      { "en": "hobby", "ru": "хобби" },
+      { "en": "book", "ru": "книга" },
+      { "en": "music", "ru": "музыка" },
+      { "en": "movie", "ru": "фильм" },
+      { "en": "game", "ru": "игра" },
+      { "en": "sport", "ru": "спорт" },
+      { "en": "dance", "ru": "танец" },
+      { "en": "painting", "ru": "живопись" },
+      { "en": "travel", "ru": "путешествие" },
+      { "en": "photography", "ru": "фотография" }
+    ]
+  }
+]
